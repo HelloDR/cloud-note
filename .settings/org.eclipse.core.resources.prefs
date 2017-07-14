@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebRoot/alert/alert_msg.html=UTF-8
+encoding//WebRoot/edit.html=UTF-8
+encoding//WebRoot/scripts/init.js=UTF-8
+encoding//WebRoot/scripts/login.js=UTF-8
+encoding//WebRoot/scripts/note.js=UTF-8
+encoding//WebRoot/scripts/notebook.js=UTF-8
+encoding//src/com/tarena/tedu/cn/controller/SystemController.java=UTF-8
+encoding//src/com/tarena/tedu/cn/service/NoteBookServiceImpl.java=UTF-8
+encoding//src/com/tarena/tedu/cn/service/UserServiceImpl.java=UTF-8
